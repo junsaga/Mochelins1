@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnInfoReviews"
+        android:icon="@drawable/baseline_person_24_2"
+        android:title="내 리뷰" />
+    <item
+        android:id="@+id/btnInfoLikes"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="좋아요 리뷰" />
+    <item
+        android:id="@+id/btnInfoMeeting"
+        android:icon="@drawable/info_meeting_icon"
+        android:title="참여한 모임" />
+</menu>

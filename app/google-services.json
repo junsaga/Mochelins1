@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594107162071",
+    "project_id": "android-mochelin-project",
+    "storage_bucket": "android-mochelin-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594107162071:android:d7a05f0af7ebe804deff92",
+        "android_client_info": {
+          "package_name": "com.musthave0145.mochelins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594107162071-2irqb0keb50fajpu34nq2o20gebo05li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONBvZhUICIQhTpjEwEImJOCv-4e0RF7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594107162071-2irqb0keb50fajpu34nq2o20gebo05li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

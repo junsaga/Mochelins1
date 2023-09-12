@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/info_nav"
+    app:startDestination="@id/infoReviewsFragment">
+
+    <fragment
+        android:id="@+id/infoReviewsFragment"
+        android:name="com.musthave0145.mochelins.user.fragment.InfoReviewsFragment"
+        android:label="fragment_info_reviews"
+        tools:layout="@layout/fragment_info_reviews" />
+    <fragment
+        android:id="@+id/infoLikesFragment"
+        android:name="com.musthave0145.mochelins.user.fragment.InfoLikesFragment"
+        android:label="fragment_info_likes"
+        tools:layout="@layout/fragment_info_likes" />
+    <fragment
+        android:id="@+id/infoMeetingFragment"
+        android:name="com.musthave0145.mochelins.user.fragment.InfoMeetingFragment"
+        android:label="fragment_info_meeting"
+        tools:layout="@layout/fragment_info_meeting" />
+</navigation>
